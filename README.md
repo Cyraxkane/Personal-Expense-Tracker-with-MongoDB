@@ -17,7 +17,7 @@ A Python console application to track daily spending using Object-Oriented Progr
 ```
 3. **Clone the Repo**:
    ```bash
-   git clone [https://github.com/yourusername/expense-tracker.git](https://github.com/yourusername/expense-tracker.git)
+   git clone [(https://github.com/Cyraxkane/Personal-Expense-Tracker-with-MongoDB.git)]
    cd expense-tracker
    ```
 4. **Install Depedencies**:
